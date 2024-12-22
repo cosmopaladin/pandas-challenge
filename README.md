@@ -10,3 +10,6 @@ as well as how many students are in each school.
 1. Schools over the size of 2000 studends had a significantly lower overall passing rate
 2. Charter schools had a significantly higher overall passing rate
 3. Interestingly the amount of money spent per student did not seem to correlate with test scores
+
+## Code attributions/sources
+1. github copilot was used when working on this
